@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">OwnerApp2</string>
+    <string name="xanadu_owner">Xanadu owner</string>
+    <string name="masa_1">Masa 1</string>
+    <string name="suma">Suma:</string>
+    <string name="finalizati">Finalizati</string>
+    <string name="masa_2">Masa 2</string>
+    <string name="masa_3">Masa 3</string>
+    <string name="in_curs">In curs</string>
+    <string name="finalizata">Finalizata</string>
+    <string name="start">Start</string>
+    <string name="klandestin">Klandestin</string>
+    <string name="xanadu">Xanadu</string>
+    <string name="klandestin_owner">Klandestin Owner</string>
+</resources>
